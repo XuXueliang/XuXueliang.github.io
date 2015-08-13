@@ -262,6 +262,7 @@ footer {
     margin-bottom: 20px;
     vertical-align: middle;
     padding-left: 15px;
+    cursor: pointer;
 }
 .arrow {
   position: relative;
