@@ -1,2 +1,2 @@
 # xuxueliang.github.io
-xuxueliang
+This is my blog.
